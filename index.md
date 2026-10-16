@@ -4,7 +4,7 @@ title: Holiday Pay Support
 
 # Holiday Pay Support
 
-Holiday Pay is a calculator for airline crew that estimates holiday pay from your hourly rate, credited flight time, time away from base (TAFB) and holiday hours.
+Holiday Pay is a calculator for flight attendants that estimates holiday pay from your hourly rate, credited flight time, time away from base (TAFB) and holiday hours.
 
 ## Frequently asked questions
 
